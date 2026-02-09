@@ -81,11 +81,11 @@ Considerando que os fingerprints utilizados neste trabalho são **sintéticos e 
 
 ## Estrutura do Repositório
 
-- `20_Butina_Spark.ipynb`  
+- `20_Butina.ipynb`  
   Implementação **sequencial** do algoritmo de Butina com um conjunto reduzido de 20 indivíduos, cada um com 10 características.  
   Esta versão tem caráter **didático e exploratório**, sendo utilizada para compreensão do fluxo do algoritmo conforme descrito no artigo, **sem uso de Apache Spark**.
 
-- `80k_Butina_Spark.ipynb`  
+- `80k_Butina.ipynb`  
   Implementação do algoritmo com 80.000 indivíduos, cada um com 166 características, utilizando **Apache Spark**, voltada à escalabilidade em ambiente distribuído.
 
 
